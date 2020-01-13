@@ -57,6 +57,7 @@
 * 淘宝：[http://taobaofed.org/](http://taobaofed.org/)
 * 京东：[https://aotu.io/](https://aotu.io/)
 * 奇虎360：[https://75team.com/](https://75team.com/)
+* 字节跳动：[https://github.com/bytedance](https://github.com/bytedance)
 
 ## 开源集合
 * [GitHub储存库](https://libraries.io/github)
